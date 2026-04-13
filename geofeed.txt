@@ -2,5 +2,7 @@
 2a14:1ec7:f710::/44,PL,PM,Gdańsk,80-001
 2a14:1ec7:f720::/44,US,US-NJ,Secaucus,07094
 2a14:1ec7:f730::/44,SG,SG,Singapore,569933
-144.79.58.0/24,SG,SG,Singapore,569933
+144.79.58.0/23,SG,SG,Singapore,569933
 2001:df6:62c0::/48,SG,SG,Singapore,569933
+65.87.223.0/24,US,US-NJ,Secaucus,07094
+2a14:1ec7:f740::/44,US,US-NJ,Secaucus,07094
